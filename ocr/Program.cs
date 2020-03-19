@@ -12,7 +12,7 @@ namespace ocr
     static class Program
     {
         // Add your Computer Vision subscription key and endpoint to your environment variables.
-        static string subscriptionKey = "9047fc34f8464ffa8562f51452342544";
+        static string subscriptionKey = "YOUR SUBSCRIPTION KEY";
 
         static string endpoint = "https://ocrtestvisionservice.cognitiveservices.azure.com/";
 
