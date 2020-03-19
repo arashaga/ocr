@@ -1,0 +1,16 @@
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.exe
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.csprojAssemblyReference.cache
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.AssemblyInfoInputs.cache
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.AssemblyInfo.cs
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.deps.json
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.runtimeconfig.json
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.runtimeconfig.dev.json
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\ocr.pdb
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.csproj.CopyComplete
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.dll
+C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\ocr\ocr\obj\Debug\netcoreapp3.1\ocr.pdb
